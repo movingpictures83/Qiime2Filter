@@ -1,0 +1,4 @@
+inputfile	sequences-table.qza
+metadata	sequences-chim-stats.qza
+op1	feature-table
+op2	filter-features

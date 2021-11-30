@@ -1,0 +1,2 @@
+Prefix plugins/Qiime2Filter/example
+Plugin Qiime2Filter inputfile parameters.txt outputfile output.qza
